@@ -1,0 +1,32 @@
+disabled = false
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "OnlyMikey's Blog"
+
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Un pequeño blog donde expreso los pensamientos e ideas que tengo dia a dia."
+logo = "sitelogo.png"
+
+  [params.author]
+  links = [ ]
+
+["params.author"]
+name = "OnlyMikey"
+headline = "Just a Dev"
+email = "angel.lopezb@proton.me"
+bio = "I've been good for way too long, Gonna get the shit I want"
+image = "author.jpg"
+
+  [["params.author".links]]
+  email = "mailto:angel.lopezb@proton.me"
+
+  [["params.author".links]]
+  bluesky = "https://bsky.app/profile/mikeymusso.bsky.social"
+
+  [["params.author".links]]
+  github = "https://github.com/onlymikey"
