@@ -21,7 +21,7 @@ rssnext = { }
 advertisement = { }
 highlightCurrentMenuArea = "enable"
 smartTOC = true
-mainSections = [ "politics", "blog" ]
+mainSections = [ "politica", "blog" ]
 
 [header]
 layout = "fixed-fill-blur"
@@ -38,7 +38,7 @@ layout = "background"
 showRecent = true
 showRecentItems = "6"
 showMoreLink = true
-showMoreLinkDest = "/politics/"
+showMoreLinkDest = "/politica/"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
@@ -65,7 +65,7 @@ showPagination = true
 invertPagination = false
 showReadingTime = true
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = true

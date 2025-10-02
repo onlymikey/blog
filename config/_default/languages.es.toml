@@ -1,6 +1,7 @@
 disabled = false
 languageCode = "es"
 languageName = "Español"
+
 weight = 1
 title = "OnlyMikey's Blog"
 
@@ -17,9 +18,9 @@ logo = "sitelogo.png"
 
 ["params.author"]
 name = "OnlyMikey"
-headline = "Just a Dev"
+headline = "Just a Dev."
 email = "angel.lopezb@proton.me"
-bio = "I've been good for way too long, Gonna get the shit I want"
+bio = "I've been good for way too long, Gonna get the shit I want."
 image = "author.jpg"
 
   [["params.author".links]]

@@ -4,7 +4,19 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://blog.onlymikey.dev/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
+
+[languages]
+  [languages.es]
+    disabled = false
+    languageCode = "es"
+    languageName = "Español"
+    weight = 1
+  [languages.en]
+    disabled = true
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

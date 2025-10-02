@@ -16,13 +16,13 @@
   weight = 10
 
 [[main]]
-  name = "Development"
+  name = "Desarrollo"
   pageRef = "dev"
   weight = 20
 
 [[main]]
-  name = "Politics"
-  pageRef = "politics"
+  name = "Politica"
+  pageRef = "politica"
   weight = 30
 
 [[main]]

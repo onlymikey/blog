@@ -9,8 +9,6 @@ tags:
   - "Flotilla Global Sumud"
   - UDG
   - Politica
-categories:
-  - Politica
 image: "featured.jpg"
 ---
 
@@ -20,6 +18,8 @@ Hoy escribo con la rabia pegada al pecho. No por sensacionalismo, sino porque no
 Me pregunto... ¿qué legitimidad tiene un poder que decide quién vive y quién muere a distancia, que impone miedo desde el mar y la violencia desde la ley? ¿Qué pasa con la moral, con los tratados que supuestamente protegen a inocentes, con las voces que claman por derechos humanos y que son ignoradas o acalladas por intereses geopolíticos? Si esto puede ocurrir hoy en Gaza, ¿qué garantías tenemos de que no ocurrirá mañana en otro lugar donde la indiferencia se convierta en consentimiento? La indiferencia de los otros es la atmósfera donde germina la impunidad.
 
 Y aquí no solo hablo de gobiernos o ejércitos. Hablo también de las instituciones que deberían representar dignidad y justicia, pero eligen el silencio. Universidad de Guadalajara: me da asco su silencio. Me da vergüenza decir que pertenezco a una institución que calla frente a la masacre y que sigue manteniendo relaciones con un Estado que practica el apartheid y el exterminio, solo porque hay intereses de poder, dinero y política en juego. ¿Qué les queda de la universidad crítica y combativa que alguna vez presumieron? ¿De qué sirve su discurso de compromiso social si, cuando más se necesita, se esconden bajo la máscara de la neutralidad?
+
+![UDG Tibia](coludidos.jpeg)
 
 El ITESO, una universidad privada, ya se pronunció en defensa de Palestina. Universidades en Europa y América Latina lo han hecho también. ¿Y ustedes? Ustedes prefieren callar, ustedes prefieren no incomodar a sus aliados políticos y económicos. Esa cobardía no es neutralidad: es complicidad. Es ponerse del lado del opresor mientras estudiantes, activistas y ciudadanos mexicanos están en riesgo de ser torturados, encarcelados o asesinados.
 
