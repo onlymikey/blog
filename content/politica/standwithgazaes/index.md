@@ -2,7 +2,6 @@
 title: "Rabia e impotencia frente a Gaza: un grito desde México"
 date: 2025-10-01T20:01:45-06:00
 draft: false
-author: "Miguel Angel"
 tags:
   - Gaza
   - Palestina
