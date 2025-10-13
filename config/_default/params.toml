@@ -21,7 +21,7 @@ rssnext = { }
 advertisement = { }
 highlightCurrentMenuArea = "enable"
 smartTOC = true
-mainSections = [ "politica", "blog" ]
+mainSections = [ "politica", "blog", "memorias" ]
 
 [header]
 layout = "fixed-fill-blur"
