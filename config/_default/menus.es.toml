@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Desarrollo"
-  pageRef = "dev"
+  name = "Crónicas"
+  pageRef = "cronicas"
   weight = 20
 
 [[main]]
@@ -26,8 +26,8 @@
   weight = 30
 
 [[main]]
-  name = "Linux"
-  pageRef = "linux"
+  name = "Desarrollo"
+  pageRef = "dev"
   weight = 40
 
 
