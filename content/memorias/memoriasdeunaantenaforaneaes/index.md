@@ -2,6 +2,8 @@
 title: "Memorias de una antena foránea: crecer con la televisión fuera de la Zona Metropolitana de Guadalajara"
 date: 2025-10-12
 draft: false
+showHero: true
+heroStyle: "background"
 tags:
   - Memorias
   - Infancia

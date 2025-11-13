@@ -2,6 +2,8 @@
 title: "Inteligencia condicionada"
 date: 2025-10-09
 draft: false
+showHero: true
+heroStyle: "background"
 tags:
   - Politica
   - IA

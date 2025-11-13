@@ -2,6 +2,8 @@
 title: "Los que critican ya no heredarán el país"
 date: 2025-10-05
 draft: false
+showHero: true
+heroStyle: "background"
 tags:
   - Mexico
   - Represion

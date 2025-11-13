@@ -1,18 +1,21 @@
 ---
-title: "Cómo dejé de creer que el mundo era justo"
+title: "Prólogo: El mundo que me prometieron"
 date: 2025-11-11
 draft: false
+series: ["El mundo que me prometieron"]
+series_order: 1
+showHero: true
+heroStyle: "background"
 tags:
-  - Bitacora
+  - Reflexion
   - Politica
   - Cronicas
-  - "La Tierra"
+  - "Critica Social"
   - Resistencia
+  - Ensayo
+  - Autobiografia
 image: "featured.png"
 ---
-
-_Bitácora de la Tierra — Mikey Musso_
-
 Cuando era niño, creía que el mundo era justo.
 No porque me lo dijeran con palabras, sino porque todo parecía estar diseñado para hacerme creerlo.
 Los libros de historia hablaban de héroes que dieron su vida por un país libre, las maestras decían que estudiar era la llave del futuro, y en casa se repetía la idea de que “el que trabaja duro, progresa”.
@@ -47,8 +50,6 @@ Pero nada cambió.
 La pobreza seguía, la violencia crecía, y los supuestos héroes solo cambiaban de color en la boleta.
 Entonces me di cuenta de que la política mexicana no se divide en buenos y malos, sino en los que mandan y los que aguantan.
 Y nosotros, los de abajo, siempre estamos en el segundo grupo.
-
-![Featured](featured.png)
 
 La universidad no me dio certezas, pero me dio tierra.
 Ahí descubrí que el país no está roto, está diseñado para funcionar así.
